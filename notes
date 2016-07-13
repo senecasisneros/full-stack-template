@@ -1,0 +1,6 @@
+bower:
+-socket-io-client
+-angular-socket-io
+
+package.json
+-socket-io
